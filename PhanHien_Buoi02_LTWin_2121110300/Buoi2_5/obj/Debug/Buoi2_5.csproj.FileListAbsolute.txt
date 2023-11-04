@@ -1,0 +1,6 @@
+C:\Users\MSI\source\repos\PhanHien_BTH02_LTWin_2121110300\Buoi2_5\bin\Debug\Buoi2_5.exe.config
+C:\Users\MSI\source\repos\PhanHien_BTH02_LTWin_2121110300\Buoi2_5\bin\Debug\Buoi2_5.exe
+C:\Users\MSI\source\repos\PhanHien_BTH02_LTWin_2121110300\Buoi2_5\bin\Debug\Buoi2_5.pdb
+C:\Users\MSI\source\repos\PhanHien_BTH02_LTWin_2121110300\Buoi2_5\obj\Debug\Buoi2_5.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\PhanHien_BTH02_LTWin_2121110300\Buoi2_5\obj\Debug\Buoi2_5.exe
+C:\Users\MSI\source\repos\PhanHien_BTH02_LTWin_2121110300\Buoi2_5\obj\Debug\Buoi2_5.pdb
