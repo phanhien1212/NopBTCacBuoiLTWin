@@ -1,0 +1,11 @@
+C:\Users\MSI\source\repos\Phanhien_Buoi6_LTW_2121110300\Login\bin\Debug\Login.exe.config
+C:\Users\MSI\source\repos\Phanhien_Buoi6_LTW_2121110300\Login\bin\Debug\Login.exe
+C:\Users\MSI\source\repos\Phanhien_Buoi6_LTW_2121110300\Login\bin\Debug\Login.pdb
+C:\Users\MSI\source\repos\Phanhien_Buoi6_LTW_2121110300\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\Phanhien_Buoi6_LTW_2121110300\Login\obj\Debug\Login.Login.resources
+C:\Users\MSI\source\repos\Phanhien_Buoi6_LTW_2121110300\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\MSI\source\repos\Phanhien_Buoi6_LTW_2121110300\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\Phanhien_Buoi6_LTW_2121110300\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Phanhien_Buoi6_LTW_2121110300\Login\obj\Debug\Login.exe
+C:\Users\MSI\source\repos\Phanhien_Buoi6_LTW_2121110300\Login\obj\Debug\Login.pdb
+C:\Users\MSI\source\repos\Phanhien_Buoi6_LTW_2121110300\Login\obj\Debug\Login.Main.resources

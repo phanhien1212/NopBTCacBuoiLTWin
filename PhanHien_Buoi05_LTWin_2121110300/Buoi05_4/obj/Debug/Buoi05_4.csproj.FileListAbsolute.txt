@@ -1,0 +1,10 @@
+C:\Users\MSI\source\repos\PhanHien_Buoi05_LTWin_2121110300\Buoi05_4\obj\Debug\Buoi05_4.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\PhanHien_Buoi05_LTWin_2121110300\Buoi05_4\obj\Debug\Buoi05_4.Form1.resources
+C:\Users\MSI\source\repos\PhanHien_Buoi05_LTWin_2121110300\Buoi05_4\obj\Debug\Buoi05_4.Properties.Resources.resources
+C:\Users\MSI\source\repos\PhanHien_Buoi05_LTWin_2121110300\Buoi05_4\obj\Debug\Buoi05_4.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\PhanHien_Buoi05_LTWin_2121110300\Buoi05_4\obj\Debug\Buoi05_4.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\PhanHien_Buoi05_LTWin_2121110300\Buoi05_4\bin\Debug\Buoi05_4.exe.config
+C:\Users\MSI\source\repos\PhanHien_Buoi05_LTWin_2121110300\Buoi05_4\bin\Debug\Buoi05_4.exe
+C:\Users\MSI\source\repos\PhanHien_Buoi05_LTWin_2121110300\Buoi05_4\bin\Debug\Buoi05_4.pdb
+C:\Users\MSI\source\repos\PhanHien_Buoi05_LTWin_2121110300\Buoi05_4\obj\Debug\Buoi05_4.exe
+C:\Users\MSI\source\repos\PhanHien_Buoi05_LTWin_2121110300\Buoi05_4\obj\Debug\Buoi05_4.pdb
